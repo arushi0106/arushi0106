@@ -1,16 +1,17 @@
 ### Hi there 👋
+# Hello, I am Arushi 👋😄
+I am a sophomore at MNNIT Allahabad, pursuing majors in Electronics and communication Enginnering and also, a passionate software developer👩🏾‍💻.
+I believe in hardwork and always try to be the best version of myself
 
-<!--
-**arushi0106/arushi0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=guptaprakhariitr&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guptaprakhariitr&hide=css,java,html&theme=tokyonight&line_height=27"> -->
+</p>
+</details>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎
+- Reach me out at <a href='https://www.linkedin.com/in/arushi-agarwal-1720921a7">LinkedIn</a>
