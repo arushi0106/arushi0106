@@ -1,10 +1,11 @@
-### Hi there 👋
+
 # Hello, I am Arushi 👋😄
 I am a sophomore at MNNIT Allahabad, pursuing majors in Electronics and communication Enginnering and also, a passionate software developer👩🏾‍💻.
 I believe in hardwork and always try to be the best version of myself
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
+ https://github-readme-stats.vercel.app/api?username=arushi0106&show_icons=true&theme=dark&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/arushi0106/github-readme-stats)
 <br>
 <p align = "center">
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=guptaprakhariitr&show_icons=true&theme=tokyonight&line_height=27">
