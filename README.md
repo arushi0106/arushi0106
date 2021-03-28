@@ -26,4 +26,4 @@ I believe in hardwork and always try to be the best version of myself
 
 
 ## Find me around the web 🌎
-- Reach me out at <a href='https://www.linkedin.com/in/arushi-agarwal-1720921a7">LinkedIn</a>
+- Reach me out at <a href="https://www.linkedin.com/in/arushi-agarwal-1720921a7">LinkedIn</a>
